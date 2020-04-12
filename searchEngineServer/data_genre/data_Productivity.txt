@@ -1,0 +1,177 @@
+{"user_rating": "4.5", "id": "390017969", "name": "Due \u2014 Reminders, Countdown Timers"}
+{"user_rating": "4", "id": "312220102", "name": "MindNode \u2013 Delightful Mind Mapping"}
+{"user_rating": "4.5", "id": "514345557", "name": "Home Design 3D GOLD"}
+{"user_rating": "4.5", "id": "370899391", "name": "Captio - Email yourself with 1 tap"}
+{"user_rating": "4", "id": "368948250", "name": "WEB.DE Mail"}
+{"user_rating": "4", "id": "897003024", "name": "Mail Master by NetEase"}
+{"user_rating": "4.5", "id": "963034692", "name": "Streaks"}
+{"user_rating": "4.5", "id": "508401605", "name": "360\u4e91\u76d8"}
+{"user_rating": "4", "id": "654662054", "name": "Procraster - Overcome Procrastination"}
+{"user_rating": "4.5", "id": "962056217", "name": "Spring Cleaning 2"}
+{"user_rating": "4", "id": "879478102", "name": "Google Slides"}
+{"user_rating": "4.5", "id": "842849113", "name": "Google Sheets"}
+{"user_rating": "4.5", "id": "909254807", "name": "PDF Markup Ultimate - Annotate PDFs and Web Pages"}
+{"user_rating": "1.5", "id": "1163668736", "name": "One Touch Camera Recording & Capture in HD"}
+{"user_rating": "4.5", "id": "586447913", "name": "Microsoft Word"}
+{"user_rating": "3", "id": "1028400679", "name": "Bookling - Track Your Reading Habits"}
+{"user_rating": "4", "id": "736741821", "name": "Arise: Beat Procrastination & dominate todo lists!"}
+{"user_rating": "2.5", "id": "919701578", "name": "ContactsXL 2016"}
+{"user_rating": "4", "id": "873008064", "name": "Powerful Silent Timer \u2013 Vibration Alarm for Library, Train etc."}
+{"user_rating": "4.5", "id": "849732663", "name": "KNFB Reader"}
+{"user_rating": "4.5", "id": "697927927", "name": "Calendars 5 - Daily Planner and Task Manager"}
+{"user_rating": "4.5", "id": "1031088612", "name": "\u5c0f\u5386 - \u901a\u77e5\u4e2d\u5fc3\u65e5\u5386"}
+{"user_rating": "3", "id": "1067458275", "name": "WatchNotes - Display notes on watch face"}
+{"user_rating": "4.5", "id": "966057213", "name": "Focus To-Do: The Best Focus Timer for Work & Study"}
+{"user_rating": "4", "id": "374211477", "name": "Notes Plus"}
+{"user_rating": "4.5", "id": "363317633", "name": "Graphic - illustration and design"}
+{"user_rating": "0", "id": "1147667378", "name": "Digiposte +"}
+{"user_rating": "4", "id": "915249334", "name": "Workflow: Powerful Automation Made Simple"}
+{"user_rating": "3.5", "id": "796959534", "name": "Nintype"}
+{"user_rating": "3.5", "id": "336683524", "name": "iFiles"}
+{"user_rating": "4.5", "id": "911156590", "name": "Adobe Illustrator Draw"}
+{"user_rating": "4.5", "id": "447752317", "name": "Quick Scan Pro - Barcode Scanner. Deal Finder. Money Saver."}
+{"user_rating": "4", "id": "1060276201", "name": "Flowstate"}
+{"user_rating": "4", "id": "374151636", "name": "Popplet"}
+{"user_rating": "4", "id": "493136154", "name": "Clear \u2013 Tasks, Reminders & To-Do Lists"}
+{"user_rating": "0", "id": "989442029", "name": "System Status : memory, CPU, network, battery data"}
+{"user_rating": "4.5", "id": "1049254261", "name": "Textastic Code Editor 6"}
+{"user_rating": "4.5", "id": "905060486", "name": "Inbox by Gmail"}
+{"user_rating": "3.5", "id": "951937596", "name": "Microsoft Outlook - email and calendar"}
+{"user_rating": "4.5", "id": "547166701", "name": "\u767e\u5ea6\u7f51\u76d8"}
+{"user_rating": "5", "id": "866450515", "name": "Forest: Stay focused, be present"}
+{"user_rating": "4", "id": "1112433234", "name": "Timelines - Time Tracking"}
+{"user_rating": "5", "id": "584246550", "name": "\u4e70\u706b\u8f66\u7968Pro"}
+{"user_rating": "0", "id": "1071235820", "name": "\u30b3\u30f3\u30c6\u30f3\u30c4\u30d6\u30ed\u30c3\u30ab\u30fc280 / \u6700\u9ad8\u306e\u5e83\u544a\u30d6\u30ed\u30c3\u30af 280blocker"}
+{"user_rating": "4", "id": "506003812", "name": "Paper by FiftyThree - Sketch, Diagram, Take Notes"}
+{"user_rating": "4.5", "id": "461504587", "name": "Trello"}
+{"user_rating": "4.5", "id": "1107931279", "name": "Dolphin Zero Incognito Browser -Mini Web Explorer"}
+{"user_rating": "4.5", "id": "388624839", "name": "CamScanner +| PDF Document Scanner and OCR"}
+{"user_rating": "4", "id": "777512000", "name": "miCal - the missing calendar with reminders"}
+{"user_rating": "4.5", "id": "591923366", "name": "Photo and Video Transfer over wifi app"}
+{"user_rating": "4", "id": "775737172", "name": "iA Writer"}
+{"user_rating": "3.5", "id": "659672658", "name": "Morning \u2014 Weather, To-Do, News, and more"}
+{"user_rating": "4", "id": "360593530", "name": "Notability"}
+{"user_rating": "4.5", "id": "413515229", "name": "Home Design 3D - 3D Printing Edition"}
+{"user_rating": "4.5", "id": "718043190", "name": "Fantastical 2 for iPhone - Calendar and Reminders"}
+{"user_rating": "4", "id": "655903467", "name": "Background Player Pro for Cloud Platforms"}
+{"user_rating": "4", "id": "1032432287", "name": "HOUND Voice Search & Assistant"}
+{"user_rating": "4.5", "id": "410395246", "name": "Microsoft OneNote"}
+{"user_rating": "4.5", "id": "968433730", "name": "Adobe Spark Page \u2014 Create Stunning Web Pages"}
+{"user_rating": "4", "id": "310636441", "name": "iStudiez Pro \u2013 Homework, Schedule, Grades"}
+{"user_rating": "4", "id": "804888540", "name": "Photon X Private Browser and Flash Player for iPad"}
+{"user_rating": "4.5", "id": "542909191", "name": "Unfilth Your Habitat"}
+{"user_rating": "4.5", "id": "953086535", "name": "Cryptomator - Cloud Storage Encryption"}
+{"user_rating": "4", "id": "577586159", "name": "Yahoo Mail - Keeps You Organized!"}
+{"user_rating": "3", "id": "625740630", "name": "HairTech-Head Sheets"}
+{"user_rating": "4.5", "id": "743974925", "name": "PDF Expert 6: Read, annotate & edit PDF documents"}
+{"user_rating": "4.5", "id": "423492040", "name": "Planimeter - Measure Land Area and Distance on a Map"}
+{"user_rating": "5", "id": "741597322", "name": "\u6211\u7684\u5bc6\u7801-\u6781\u7b80\u8d26\u53f7\u5907\u5fd8\u5f55\uff0c\u5b89\u5168\u8bb0\u5f55\u7ba1\u5bb6"}
+{"user_rating": "4.5", "id": "978882773", "name": "Family Organizer - Calendar Planner"}
+{"user_rating": "4.5", "id": "443369807", "name": "Hotspot Shield Free VPN Proxy & Wi-Fi Privacy"}
+{"user_rating": "5", "id": "582793399", "name": "Rocket Video for Google Cast and Chromecast to TV"}
+{"user_rating": "4.5", "id": "641900855", "name": "Tayasui Sketches"}
+{"user_rating": "4.5", "id": "417352269", "name": "GMX Mail"}
+{"user_rating": "3.5", "id": "1092448381", "name": "MobileFamilyTree 8"}
+{"user_rating": "3.5", "id": "1104795347", "name": "iFiles 2 - File Manager, Cloud Storage, PDF Reader"}
+{"user_rating": "4.5", "id": "393313223", "name": "Printer Pro - Print photos, pdf and emails"}
+{"user_rating": "3.5", "id": "1035689743", "name": "BusyCal - Calendar, Reminders & To Dos"}
+{"user_rating": "4.5", "id": "430229059", "name": "Rota Calendar - Work Shift Manager"}
+{"user_rating": "4.5", "id": "507874739", "name": "Google Drive - free online storage"}
+{"user_rating": "5", "id": "1085978097", "name": "Pythonista 3"}
+{"user_rating": "3", "id": "543672169", "name": "ownCloud"}
+{"user_rating": "5", "id": "1035355817", "name": "VPN Proxy Master Pro"}
+{"user_rating": "3.5", "id": "794729836", "name": "Staccal 2 - Calendars and Reminder"}
+{"user_rating": "3.5", "id": "956811074", "name": "Carbo - Handwriting in the Digital Age"}
+{"user_rating": "4", "id": "561625752", "name": "T-Mobile"}
+{"user_rating": "4.5", "id": "560586497", "name": "Concepts - Sketch, Design, Illustrate"}
+{"user_rating": "3", "id": "528122602", "name": "Bluebeam Revu"}
+{"user_rating": "4", "id": "522626820", "name": "iTranslate Voice - Speak & Translate in Real Time"}
+{"user_rating": "4", "id": "522700349", "name": "\u817e\u8baf\u5fae\u4e91-\u5b89\u5168\u5907\u4efd\u5171\u4eab\u6587\u4ef6\u548c\u7167\u7247"}
+{"user_rating": "4.5", "id": "1053874290", "name": "Free VPN HexaTech - Unlimited VPN Proxy for iPhone"}
+{"user_rating": "4.5", "id": "998059934", "name": "Equipd Bible"}
+{"user_rating": "3.5", "id": "1147923152", "name": "Timepage for iPad \u2013 Calendar by Moleskine"}
+{"user_rating": "0", "id": "585561686", "name": "QR\u30b3\u30fc\u30c9\u30ea\u30fc\u30c0\u30fc for iPhone"}
+{"user_rating": "4", "id": "1173333213", "name": "ContactsXL 2017"}
+{"user_rating": "4.5", "id": "972387337", "name": "Scrivener"}
+{"user_rating": "4.5", "id": "935754064", "name": "Duet Display"}
+{"user_rating": "4", "id": "325962257", "name": "My Measures PRO"}
+{"user_rating": "4.5", "id": "364901807", "name": "Documents 6 - File manager, PDF reader and browser"}
+{"user_rating": "4.5", "id": "480102733", "name": "Awesome Calendar - Personal Planner"}
+{"user_rating": "4.5", "id": "392188745", "name": "Noteshelf"}
+{"user_rating": "4", "id": "989178902", "name": "Timepage \u2013 Calendar by Moleskine"}
+{"user_rating": "4", "id": "281796108", "name": "Evernote - stay organized"}
+{"user_rating": "2", "id": "1085821901", "name": "Jottit"}
+{"user_rating": "4.5", "id": "866786833", "name": "iThoughts (mindmap)"}
+{"user_rating": "4", "id": "586449534", "name": "Microsoft PowerPoint"}
+{"user_rating": "4", "id": "1045605097", "name": "Interact Contacts - Do more with your Contacts!"}
+{"user_rating": "4.5", "id": "778658393", "name": "GoodNotes 4 - Notes & PDF"}
+{"user_rating": "4.5", "id": "830708155", "name": "Fantastical 2 for iPad - Calendar and Reminders"}
+{"user_rating": "4.5", "id": "934510730", "name": "Astropad Standard"}
+{"user_rating": "4.5", "id": "953426154", "name": "Be Focused Pro - Focus timer & Goal Tracker"}
+{"user_rating": "4.5", "id": "703177890", "name": "Ever - Capture Your Memories"}
+{"user_rating": "4.5", "id": "381059732", "name": "Week Calendar"}
+{"user_rating": "4", "id": "341691394", "name": "Refills Calendar - Scheduler - Note"}
+{"user_rating": "4.5", "id": "842842640", "name": "Google Docs"}
+{"user_rating": "5", "id": "1025707485", "name": "VPN Proxy Master - Unlimited WiFi security VPN"}
+{"user_rating": "4.5", "id": "1037712285", "name": "Personal Progress Binder"}
+{"user_rating": "4", "id": "557121061", "name": "MetaMoJi Note - note taking and PDF annotation app"}
+{"user_rating": "4", "id": "438475005", "name": "TextGrabber \u2013 image to text: OCR & translate photo"}
+{"user_rating": "4", "id": "352000376", "name": "Shift Worker"}
+{"user_rating": "4.5", "id": "578979413", "name": "MyScript Calculator - Handwriting calculator"}
+{"user_rating": "4", "id": "1008546049", "name": "Whink - Note taking, Annotate & Record Lectures"}
+{"user_rating": "4.5", "id": "586683407", "name": "Microsoft Excel"}
+{"user_rating": "2", "id": "917795718", "name": "Fingerprint Login: PassKey Password & Apps Lock"}
+{"user_rating": "0", "id": "911719423", "name": "Official QR Code reader \"Q\" - QR app. -"}
+{"user_rating": "5", "id": "794278407", "name": "QR\u30b3\u30fc\u30c9\u30ea\u30fc\u30c0\u30fc for iPhone - \u7121\u6599\u3067\u4f7f\u3048\u308bQR\u30b3\u30fc\u30c9\u8aad\u307f\u53d6\u308a\u7528\u30a2\u30d7\u30ea"}
+{"user_rating": "4.5", "id": "492076105", "name": "iCalendar"}
+{"user_rating": "3.5", "id": "1093924230", "name": "iAnnotate 4 - read, markup and share PDFs and more"}
+{"user_rating": "3.5", "id": "1131708443", "name": "Automatic Call Recorder\u2122 Pro Calls Made with app"}
+{"user_rating": "4.5", "id": "1016366447", "name": "Bear"}
+{"user_rating": "4.5", "id": "1127930385", "name": "Content Transf"}
+{"user_rating": "4.5", "id": "777310222", "name": "GoodReader - PDF Reader, Annotator and File Manager"}
+{"user_rating": "4.5", "id": "749132901", "name": "Notepad+: Take Notes, Annotate and Write on PDF"}
+{"user_rating": "5", "id": "435693872", "name": "Kurumaki Calendar -month scroll calendar-"}
+{"user_rating": "4.5", "id": "445996226", "name": "MailShot Pro- Group Email Done Right!"}
+{"user_rating": "4.5", "id": "363998953", "name": "iAnnotate PDF"}
+{"user_rating": "4", "id": "430234732", "name": "Site Audit Pro"}
+{"user_rating": "4", "id": "477537958", "name": "Microsoft OneDrive \u2013 File & photo cloud storage"}
+{"user_rating": "3.5", "id": "327630330", "name": "Dropbox"}
+{"user_rating": "2", "id": "592725830", "name": "CloudApp Mobile"}
+{"user_rating": "3.5", "id": "993160329", "name": "Airmail - Your Mail With You"}
+{"user_rating": "4.5", "id": "1148364175", "name": "My PriceQuote"}
+{"user_rating": "5", "id": "1068766238", "name": "Free QR Code Reader simply to scan a QR Code"}
+{"user_rating": "4.5", "id": "804641004", "name": "Speak & Translate \uff0d Voice and Text Translator"}
+{"user_rating": "4", "id": "588358613", "name": "Drawing Desk - Draw, Paint, Doodle & Sketch board"}
+{"user_rating": "4", "id": "1031021466", "name": "Amount Plus - Unit And Currency Converter"}
+{"user_rating": "0", "id": "480090210", "name": "BarcodeReader\u300cICONIT\u300d"}
+{"user_rating": "4", "id": "401643317", "name": "UPAD 3"}
+{"user_rating": "4", "id": "909319292", "name": "Google Calendar \u2013 Make the most of every day"}
+{"user_rating": "3.5", "id": "1108733742", "name": "Note Always - a notebook designed for Apple Pencil"}
+{"user_rating": "4.5", "id": "469284907", "name": "HP All-in-One Printer Remote"}
+{"user_rating": "1.5", "id": "955102484", "name": "Unblue"}
+{"user_rating": "4", "id": "763225933", "name": "MetaMoJi Note Lite"}
+{"user_rating": "4", "id": "422689480", "name": "Gmail - email by Google: secure, fast & organized"}
+{"user_rating": "5", "id": "983826477", "name": "Productive habits & daily goals tracker"}
+{"user_rating": "4.5", "id": "311785642", "name": "AutoScout24 - mobile used & new car market"}
+{"user_rating": "4.5", "id": "822797943", "name": "Page: English Grammar & Spell Checker + Translator"}
+{"user_rating": "4", "id": "608263551", "name": "\u817e\u8baf\u5fae\u4e91HD-\u5b89\u5168\u5907\u4efd\u5171\u4eab\u6587\u4ef6\u548c\u7167\u7247"}
+{"user_rating": "4", "id": "517409040", "name": "Translator !!"}
+{"user_rating": "4", "id": "1066322956", "name": "Doo - Get Things Done"}
+{"user_rating": "4", "id": "1022256487", "name": "Sorted - Quickly Organise Your Day"}
+{"user_rating": "2.5", "id": "1142281657", "name": "PokeVision Live Radar Alert & Notifications for Pokemon Go Gear"}
+{"user_rating": "4.5", "id": "852555131", "name": "Adobe Spark Video, Animated Videos in minutes"}
+{"user_rating": "4.5", "id": "950335311", "name": "Ulysses"}
+{"user_rating": "4.5", "id": "974530923", "name": "Laundry Day - Care Symbol Reader"}
+{"user_rating": "4.5", "id": "1039596715", "name": "FastEver 2 - Quick memo app for Evernote"}
+{"user_rating": "4", "id": "554602005", "name": "\u767e\u5ea6\u7f51\u76d8 HD"}
+{"user_rating": "4", "id": "1146543227", "name": "Infinite Painter"}
+{"user_rating": "5", "id": "591840203", "name": "CARROT To-Do - Talking Task List"}
+{"user_rating": "4.5", "id": "671867510", "name": "Tayasui Sketches Pro"}
+{"user_rating": "4", "id": "909587083", "name": "Mail Master Pro by NetEase"}
+{"user_rating": "3.5", "id": "288113403", "name": "iTranslate - Language Translator & Dictionary"}
+{"user_rating": "5", "id": "1086617993", "name": "BlockyTime - Track your time no need to Start/Stop"}
+{"user_rating": "4", "id": "655890150", "name": "Screens - Remote Desktop, VNC, Screen Sharing"}
+{"user_rating": "4.5", "id": "522008611", "name": "ATracker - Daily Task and Time Tracking"}
+{"user_rating": "4", "id": "519077434", "name": "Text 2 Group Pro - Quickly send SMS messages"}
+{"user_rating": "4.5", "id": "922793622", "name": "Email - Fast & Secure mail for Gmail iCloud Yahoo"}
+{"user_rating": "4.5", "id": "364500115", "name": "Digits, the calculator for humans"}

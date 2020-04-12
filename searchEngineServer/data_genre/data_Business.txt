@@ -1,0 +1,5 @@
+{"user_rating": "4.5", "id": "1012032539", "name": "Sideline - 2nd Phone Number"}
+{"user_rating": "0", "id": "1104879125", "name": "\uc560\ub4dc\ud53d - \uc778\ud50c\ub8e8\uc5b8\uc11c\uac00 \ub418\uc5b4 \uc758\ubbf8\uc788\ub294 \uc218\uc775\uc744 \uc62c\ub9ac\uc138\uc694!"}
+{"user_rating": "4.5", "id": "558270538", "name": "File Manager Pro App"}
+{"user_rating": "3.5", "id": "385957032", "name": "OPEN Forum"}
+{"user_rating": "0", "id": "963570332", "name": "SmartForm - \u898b\u7a4d\u66f8\u30fb\u7d0d\u54c1\u66f8\u30fb\u8acb\u6c42\u66f8\u30fb\u9818\u53ce\u66f8\u4f5c\u6210\u30bd\u30d5\u30c8\u306e\u65b0\u5b9a\u756a\uff01"}

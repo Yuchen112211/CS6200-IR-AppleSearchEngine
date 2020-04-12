@@ -1,0 +1,122 @@
+{"user_rating": "5", "id": "723134859", "name": "Ebates: Cash Back, Coupons & Rebate Shopping App"}
+{"user_rating": "3.5", "id": "863998476", "name": "\u8d1d\u8d1d-8000\u4e07\u5988\u5988\u4fe1\u8d56\u7684\u6bcd\u5a74\u6b63\u54c1\u7279\u5356\u62fc\u56e2\u5546\u57ce"}
+{"user_rating": "4.5", "id": "383298204", "name": "shopkick - Shopping Rewards & Discounts"}
+{"user_rating": "2.5", "id": "338828953", "name": "Shop Savvy Barcode Scanner - Price Compare & Deals"}
+{"user_rating": "4.5", "id": "518966501", "name": "\u5929\u732b-\u8d2d\u7269"}
+{"user_rating": "3", "id": "424598114", "name": "\u82cf\u5b81\u6613\u8d2d-\u65b0\u4eba\u4e13\u4eab\u5927\u793c\u5305"}
+{"user_rating": "5", "id": "1095459556", "name": "Nike+"}
+{"user_rating": "4", "id": "382497397", "name": "Sam's Club: Wholesale Shopping & Bulk Buy Deals"}
+{"user_rating": "4", "id": "577333970", "name": "Checkout 51: Grocery Coupons & Cash Back Savings"}
+{"user_rating": "4.5", "id": "965789238", "name": "\u7f51\u6613\u8003\u62c9\u6d77\u8d2d\u2014\u65b0\u4eba\u514d\u8d39\u9886\u53d61000\u5143\u4f18\u60e0\u5238"}
+{"user_rating": "4.5", "id": "382596778", "name": "eBay Kleinanzeigen - Free. Easy. Local."}
+{"user_rating": "4.5", "id": "468996152", "name": "OfferUp - Buy. Sell. Simple."}
+{"user_rating": "4", "id": "557153158", "name": "Shpock Boot Sale & Classifieds App. Buy & Sell"}
+{"user_rating": "4.5", "id": "431023686", "name": "\u7f8e\u4e3d\u8bf4-\u6f6e\u6d41\u7a7f\u642d\u5feb\u4eba\u4e00\u6b65"}
+{"user_rating": "4.5", "id": "938596958", "name": "HIGO-\u5168\u7403\u5962\u4f88\u54c1\u724c\u548c\u8bbe\u8ba1\u5e08\u54c1\u724c\u8d2d\u4e70\u5e73\u53f0"}
+{"user_rating": "3.5", "id": "438865278", "name": "\u6dd8\u5b9dHD\uff0dTaobao for iPad"}
+{"user_rating": "4.5", "id": "911130812", "name": "SNKRS"}
+{"user_rating": "4", "id": "1072898300", "name": "Footaction"}
+{"user_rating": "4.5", "id": "518611020", "name": "\u805a\u7f8e\u4f18\u54c1-\u65b0\u7528\u6237\u4e13\u4eab160\u5143\u73b0\u91d1\u5238"}
+{"user_rating": "3.5", "id": "375380948", "name": "Apple Store"}
+{"user_rating": "4.5", "id": "665873523", "name": "Retale - Coupons, Weekly Ads & Stores Nearby"}
+{"user_rating": "3", "id": "930777501", "name": "The Clymb \u2014 Gear Deals"}
+{"user_rating": "5", "id": "452176796", "name": "\u8611\u83c7\u8857-\u7f51\u7ea2\u76f4\u64ad\u642d\u914d\u7684\u8d2d\u7269\u7279\u5356\u5e73\u53f0"}
+{"user_rating": "4.5", "id": "1046684325", "name": "Sam\u2019s Club Scan & Go"}
+{"user_rating": "3.5", "id": "331804452", "name": "Gilt"}
+{"user_rating": "0", "id": "549050663", "name": "\u30e8\u30c9\u30d0\u30b7"}
+{"user_rating": "3", "id": "338137227", "name": "Walmart: Free 2-Day Shipping,* Easy Store Shopping"}
+{"user_rating": "0", "id": "945991259", "name": "\u840c\u5e97-\u670b\u53cb\u5708\u7684\u7f8e\u5473\u751f\u6d3b"}
+{"user_rating": "3.5", "id": "427457043", "name": "1\u53f7\u5e97-\u5168\u7403\u8d85\u5e02 \u8f7b\u677e\u5230\u5bb6"}
+{"user_rating": "4", "id": "510909506", "name": "\u95f2\u9c7c-\u8ba9\u4f60\u7684\u95f2\u7f6e\u6e38\u8d77\u6765"}
+{"user_rating": "3.5", "id": "414245413", "name": "\u624b\u673a\u4eac\u4e1c-\u9996\u6b21\u8d2d\u4e70\u53ef\u9886\u53d6188\u5143\u4f18\u60e0\u5238"}
+{"user_rating": "0", "id": "906681058", "name": "vente-privee"}
+{"user_rating": "0", "id": "1150982926", "name": "\u5927\u4eba\u306e\u305f\u3081\u306e\u304b\u308f\u3044\u3044\u304a\u8cb7\u3044\u7269\u30a2\u30d7\u30eaSUCRESIA(\u30b7\u30e5\u30af\u30ec\u30b7\u30a2\uff09"}
+{"user_rating": "4.5", "id": "525790167", "name": "Fuel Rewards\u00ae program"}
+{"user_rating": "5", "id": "1095571204", "name": "KIXIFY - Buy & Sell Sneakers"}
+{"user_rating": "3", "id": "297430070", "name": "Target"}
+{"user_rating": "3.5", "id": "842503500", "name": "Missguided"}
+{"user_rating": "5", "id": "457876088", "name": "ASOS"}
+{"user_rating": "3.5", "id": "336860594", "name": "Victoria\u2019s Secret \u2013 The Sexiest Bras & Lingerie"}
+{"user_rating": "4", "id": "896130944", "name": "Mercari: Shopping Marketplace to Buy & Sell Stuff"}
+{"user_rating": "4.5", "id": "741292507", "name": "Red\uff0dshop the world"}
+{"user_rating": "4", "id": "395545555", "name": "CVS Pharmacy"}
+{"user_rating": "4.5", "id": "934030757", "name": "Foot Locker"}
+{"user_rating": "2.5", "id": "1002355194", "name": "\u8f6c\u8f6c-\u66f4\u4e13\u4e1a\u7684\u4e8c\u624b\u95f2\u7f6e\u4ea4\u6613\u5e73\u53f0"}
+{"user_rating": "5", "id": "999183538", "name": "Honest App: Shop baby & diaper products"}
+{"user_rating": "4", "id": "282614216", "name": "eBay: Best App to Buy, Sell, Save! Online Shopping"}
+{"user_rating": "5", "id": "836767708", "name": "Wayfair - Shop Furniture, Home Decor, Daily Sales"}
+{"user_rating": "4.5", "id": "470412147", "name": "Poshmark: Buy & Sell Fashion"}
+{"user_rating": "4.5", "id": "393328150", "name": "Sephora Makeup & Beauty App \u2013 Insider Tips & Style"}
+{"user_rating": "4", "id": "690602681", "name": "JD Sports"}
+{"user_rating": "4.5", "id": "986339882", "name": "letgo: Buy & Sell Second Hand Stuff"}
+{"user_rating": "4", "id": "459023164", "name": "\u552f\u54c1\u4f1a HD \u5168\u7403\u7cbe\u9009\uff0c\u6b63\u54c1\u7279\u5356"}
+{"user_rating": "4", "id": "387682726", "name": "\u6dd8\u5b9d - \u968f\u65f6\u968f\u5730\uff0c\u60f3\u6dd8\u5c31\u6dd8"}
+{"user_rating": "4.5", "id": "602716057", "name": "CVS"}
+{"user_rating": "0", "id": "598127498", "name": "\u5c1a\u54c1\u7f51 - \u5168\u7403\u7cbe\u54c1\u9ad8\u7aef\u65f6\u5c1a\u8d2d\u7269\u7f51\u7ad9"}
+{"user_rating": "0", "id": "1130864757", "name": "\u30cf\u30cb\u30fc\u30ba\u30a2\u30d7\u30ea"}
+{"user_rating": "4", "id": "434374726", "name": "\u4eac\u4e1c HD"}
+{"user_rating": "4.5", "id": "1135667527", "name": "OVO Store"}
+{"user_rating": "4.5", "id": "397533889", "name": "Black Friday 2017 Ads App - BlackFriday.fm"}
+{"user_rating": "4", "id": "725208930", "name": "WEAR - Fashion Lookbook"}
+{"user_rating": "3", "id": "947644950", "name": "Amazon Prime Now"}
+{"user_rating": "0", "id": "924443754", "name": "DaWanda - The marketplace for unique products"}
+{"user_rating": "4.5", "id": "638143733", "name": "\u8fbe\u4ee4\u5168\u7403\u597d\u8d27\uff0d\u6b63\u54c1\u514d\u7a0e\uff0c\u5e26\u4f60\u8d2d\u5168\u7403"}
+{"user_rating": "2.5", "id": "909434792", "name": "My College Bookstore"}
+{"user_rating": "0", "id": "1162719828", "name": "gogogo"}
+{"user_rating": "4", "id": "910559026", "name": "Close5 - Buy & Sell Stuff Locally"}
+{"user_rating": "3", "id": "589351740", "name": "H&M"}
+{"user_rating": "4.5", "id": "518684914", "name": "Depop - Buy, Sell and Share"}
+{"user_rating": "4.5", "id": "547951480", "name": "ZARA"}
+{"user_rating": "4.5", "id": "352683833", "name": "Groupon - Deals, Coupons & Discount Shopping App"}
+{"user_rating": "4.5", "id": "530621395", "name": "Wish - Shopping Made Fun"}
+{"user_rating": "0", "id": "912606824", "name": "Ticket Camp - \u30d5\u30ea\u30de\u3088\u308a\u3082\u5b89\u5fc3\u3067\u7c21\u5358\u306a\u30c1\u30b1\u30c3\u30c8\u30a2\u30d7\u30ea"}
+{"user_rating": "3.5", "id": "335989871", "name": "Kmart \u2013 Download Now, Shop Online & Pick Up Today!"}
+{"user_rating": "4", "id": "436672029", "name": "AliExpress Shopping App"}
+{"user_rating": "4", "id": "1101501512", "name": "Lush Cosmetics"}
+{"user_rating": "5", "id": "392988420", "name": "Zappos: shop shoes & clothes, fast free shipping"}
+{"user_rating": "5", "id": "563764220", "name": "minne - shopping handmade item"}
+{"user_rating": "0", "id": "581838289", "name": "\u5730\u5143\u306e\u63b2\u793a\u677f\u300c\u30b8\u30e2\u30c6\u30a3\u30fc\u300d\u5730\u5143\u3067\u30ab\u30f3\u30bf\u30f3\uff01\u30d5\u30ea\u30de\u3088\u308a\u3082\u304a\u5f97\uff01"}
+{"user_rating": "4", "id": "380974668", "name": "Vestiaire Collective - Pre-Owned Luxury Fashion"}
+{"user_rating": "4.5", "id": "340779800", "name": "The Christmas List"}
+{"user_rating": "4.5", "id": "917554930", "name": "5miles: Buy and Sell Used Stuff Locally"}
+{"user_rating": "0", "id": "1129107483", "name": "\u5982\u610f\u593a\u5b9d"}
+{"user_rating": "2.5", "id": "599608562", "name": "UNiDAYS: Student Discounts for Shopping Top Brands"}
+{"user_rating": "0", "id": "404529222", "name": "\u30d5\u30a1\u30c3\u30b7\u30e7\u30f3\u901a\u8ca9 ZOZOTOWN"}
+{"user_rating": "4", "id": "426414466", "name": "Showroomprive - Private Fashion Sales"}
+{"user_rating": "4.5", "id": "593828513", "name": "\u5929\u732bHD"}
+{"user_rating": "4.5", "id": "725097967", "name": "Flipp - Weekly Ads, Shopping List, and Coupons"}
+{"user_rating": "3.5", "id": "925338276", "name": "JCPenney"}
+{"user_rating": "4", "id": "314855255", "name": "Best Buy"}
+{"user_rating": "4.5", "id": "966758561", "name": "GOAT: Buy & Sell Sneakers"}
+{"user_rating": "4.5", "id": "559887125", "name": "Ibotta: Cash Back App, Grocery Coupons & Shopping"}
+{"user_rating": "4", "id": "467738064", "name": "AEO|Aerie: Jeans, Dresses, Swimsuits & Bralettes"}
+{"user_rating": "5", "id": "1080248000", "name": "Romwe shopping- Fashion Clothing for women"}
+{"user_rating": "4.5", "id": "477128284", "name": "Etsy: Shop Handmade, Vintage & Creative Goods"}
+{"user_rating": "0", "id": "1105845815", "name": "\u82b1\u7c89\u513f-\u5973\u6027\u3001\u6bcd\u5a74\u95f2\u7f6e\u4ea4\u6613\u5e73\u53f0"}
+{"user_rating": "3.5", "id": "973366293", "name": "\u871c\u82bd - \u751f\u5a03\u517b\u5a03\u4e0a\u871c\u82bd"}
+{"user_rating": "4", "id": "523497998", "name": "\u30d5\u30ea\u30eb(FRIL) - \u6e80\u8db3\u5ea6No.1 \u306e\u30d5\u30ea\u30de\u30a2\u30d7\u30ea"}
+{"user_rating": "3.5", "id": "341036067", "name": "Macy's"}
+{"user_rating": "4.5", "id": "417200582", "name": "\u552f\u54c1\u4f1a-\u6b22\u4e50\u98822\u72ec\u5bb6\u7535\u5546 \u540c\u6b3e\u70ed\u5356"}
+{"user_rating": "3", "id": "320029256", "name": "Whole Foods Market"}
+{"user_rating": "4", "id": "487946174", "name": "Gumtree Classifieds: Buy & Sell - Local for Sale"}
+{"user_rating": "3", "id": "445573854", "name": "\u5f53\u5f53-\u6b63\u54c1\u79d2\u6740\uff0c\u9996\u5355\u7acb\u51cf5\u5143"}
+{"user_rating": "5", "id": "544118997", "name": "Shopular Coupons, Weekly Deals for Target, Walmart"}
+{"user_rating": "0", "id": "1058289313", "name": "\u96f6\u94b1\u593a\u5b9dpro-\u65b0\u624b99\u5143\u7ea2\u5305\u52a9\u4f601\u5143\u8d2d"}
+{"user_rating": "4.5", "id": "557932128", "name": "Inkly: Greeting Cards, Postcards, Flowers & Gifts"}
+{"user_rating": "4.5", "id": "668533031", "name": "\u6d0b\u7801\u5934\u2014\u6b63\u54c1\u4fdd\u8bc1\u6d77\u5916\u4e70\u624b\u5e26\u4f60\u5168\u7403\u8d2d\u6d0b\u8d27"}
+{"user_rating": "4", "id": "591584458", "name": "\u8fd4\u5229-\u4e13\u6ce8\u7f51\u8d2d\u7701\u94b1\u7684APP"}
+{"user_rating": "4.5", "id": "878577184", "name": "SHEIN Shopping - Women's Clothing & Fashion"}
+{"user_rating": "0", "id": "916614208", "name": "Creema\uff08\u30af\u30ea\u30fc\u30de\uff09- \u30cf\u30f3\u30c9\u30e1\u30a4\u30c9\u30de\u30fc\u30b1\u30c3\u30c8\u30d7\u30ec\u30a4\u30b9"}
+{"user_rating": "3", "id": "556027347", "name": "Kirkland's Spin to Win"}
+{"user_rating": "2.5", "id": "1044283059", "name": "\u62fc\u591a\u591a - 1\u4ebf\u4eba\u90fd\u5728\u62fc\u7684\u8d2d\u7269App"}
+{"user_rating": "0", "id": "486744917", "name": "\u56fd\u7f8e\u5728\u7ebf \u2013 \u65b0\u4eba\u514d\u8d39\u9886200\u5143\u4f18\u60e0\u5238"}
+{"user_rating": "4.5", "id": "950022424", "name": "Jet: Online Shopping Deals & Bulk Wholesale Prices"}
+{"user_rating": "4", "id": "472014516", "name": "Kohl's App: Scan, Shop, Pay and Save!"}
+{"user_rating": "3.5", "id": "297606951", "name": "Amazon App: shop, scan, compare, and read reviews"}
+{"user_rating": "3", "id": "356968629", "name": "\u30e4\u30d5\u30aa\u30af! \u5229\u7528\u8005\u6570NO.1\u306e\u30aa\u30fc\u30af\u30b7\u30e7\u30f3\u3001\u30d5\u30ea\u30de\u30a2\u30d7\u30ea"}
+{"user_rating": "4.5", "id": "335364882", "name": "Walgreens \u2013 Pharmacy, Photo, Coupons and Shopping"}
+{"user_rating": "4.5", "id": "521207075", "name": "RetailMeNot Shopping Deals, Coupons, Savings"}
+{"user_rating": "4.5", "id": "1018236462", "name": "boohoo.com"}
+{"user_rating": "4.5", "id": "1092704571", "name": "UA Shop by Under Armour"}
+{"user_rating": "5", "id": "1056489580", "name": "\u68d2\u68d2\u7cd6-\u5b9d\u5b9d\u7684\u4e16\u754c\u8863\u6a71"}
+{"user_rating": "3.5", "id": "659563061", "name": "Cartwheel by Target"}

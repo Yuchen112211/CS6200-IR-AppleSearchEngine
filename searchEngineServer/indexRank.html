@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>The Apple Application Search Engine</title>
+</head>
+<body>
+
+<center><h1> Apple App Store Search Engine </h1></center>
+
+<form action="/getQueryResult" method="POST" enctype="multipart/form-data" id="genre">
+    <center>Input query:
+    <input type="text" name="query" id="queryInput"></center>
+    <br>
+
+    <center><label="ranks">Rank(default 4.0-5.0): </label>
+    <select name="rankForm" id="rank">
+    	<option value="4">4.0 - 5.0</option>
+    	<option value="3">3.0 - 4.0</option>
+    	<option value="2">2.0 - 3.0</option>
+    	<option value="1">1.0 - 2.0</option>
+    	<option value="0">0 - 1.0</option>
+
+    </select></center>
+    
+
+    <br>
+
+    <center><label for="genres">Choose a Genre(Default all):</label>
+	<select name="genreForm" id="genre">
+	  <option value="None">All</option>
+	  <option value="Productivity">Productivity</option>
+	  <option value="Photo & Video">Photo & Video</option>
+	  <option value="Entertainment">Entertainment</option>
+	  <option value="Travel">Travel</option>
+	  <option value="Sports">Sports</option>
+	  <option value="Food & Drink">TravFood & Drinkel</option>
+	  <option value="Book">Book</option>
+	  <option value="Music">Music</option>
+	  <option value="Shopping">Shopping</option>
+	  <option value="Finance">Finance</option>
+	  <option value="Business">Business</option>
+	  <option value="Navigation">Navigation</option>
+	  <option value="Utilities">Utilities</option>
+	  <option value="News">News</option>
+	  <option value="Lifestyle">Lifestyle</option>
+	  <option value="Medical">Medical</option>
+	  <option value="Games">Games</option>
+	  <option value="Catalogs">Catalogs</option>
+	  <option value="Health & Fitness">Health & Fitness</option>
+	  <option value="Social Networking">Social Networking</option>
+	  <option value="Reference">Reference</option>
+	  <option value="Weather">Weather</option>
+	  <option value="Education">Education</option>
+
+	</select></center>
+	
+	<br>
+
+    <center><BUTTON>Search</BUTTON></center>
+</form>
+
+

@@ -1,0 +1,24 @@
+{"user_rating": "4", "id": "1141895945", "name": "Wrestlemoji"}
+{"user_rating": "2.5", "id": "1080497972", "name": "WKC Dog Show 2017"}
+{"user_rating": "3.5", "id": "328415391", "name": "Yahoo Fantasy Sports"}
+{"user_rating": "0", "id": "1148201330", "name": "FFmoji 2016 - Your Fantasy Football Emoji Keyboard"}
+{"user_rating": "2.5", "id": "658257516", "name": "The Open"}
+{"user_rating": "2", "id": "1061115611", "name": "European Qualifiers Official App"}
+{"user_rating": "3.5", "id": "353665650", "name": "Univision Deportes: Liga MX, MLS, F\u00fatbol En Vivo"}
+{"user_rating": "3", "id": "550252401", "name": "Pac-12 Now"}
+{"user_rating": "1.5", "id": "808794344", "name": "The Olympics - Official App for the Olympic Games"}
+{"user_rating": "3.5", "id": "493619333", "name": "MLB.com At Bat"}
+{"user_rating": "3.5", "id": "325462190", "name": "PGA Championship 2016 \u2013 Baltusrol Golf Club"}
+{"user_rating": "4", "id": "563027226", "name": "NFL HUDDLE: Football Card Trader"}
+{"user_rating": "4.5", "id": "421168738", "name": "iStatVball 2 iPad Edition"}
+{"user_rating": "3.5", "id": "983202217", "name": "\u4e50\u89c6\u4f53\u80b2\u2014\u82f1\u8d85\u6b27\u51a0F1\u9ad8\u6e05\u76f4\u64ad"}
+{"user_rating": "2", "id": "568543007", "name": "Watch NFL Network"}
+{"user_rating": "2", "id": "1090532562", "name": "Golf Ball Locator"}
+{"user_rating": "3", "id": "324266640", "name": "Fantasy Football Manager - FFM for FPL"}
+{"user_rating": "0", "id": "1060981840", "name": "\u767e\u76c8\u8db3\u7403-\u4e13\u4e1a\u8db3\u7bee\u6bd4\u5206\u8d5b\u4e8b\u9884\u6d4b"}
+{"user_rating": "4", "id": "411930498", "name": "GolfNow \u2013 Book Tee Times, Golf GPS, Scorecard"}
+{"user_rating": "3.5", "id": "570608623", "name": "\u817e\u8baf\u4f53\u80b2-NBA\u5168\u7f51\u72ec\u64ad"}
+{"user_rating": "3.5", "id": "1122621497", "name": "NBAmoji"}
+{"user_rating": "4.5", "id": "418075935", "name": "Bleacher Report: Sports news, scores, & highlights"}
+{"user_rating": "3", "id": "307184892", "name": "CBS Sports App - Sports Scores, News, Stats, Watch"}
+{"user_rating": "5", "id": "1050331109", "name": "Seattle GameDay Sports Radio \u2013 Seahawks and Mariners Edition"}

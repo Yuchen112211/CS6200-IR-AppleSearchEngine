@@ -1,0 +1,19 @@
+{"user_rating": "4.5", "id": "552208596", "name": "Followers - Social Analytics For Instagram"}
+{"user_rating": "3.5", "id": "1112989865", "name": "Chat for Whatsapp - iPad Version"}
+{"user_rating": "0", "id": "1078542442", "name": "FixYou-\u7121\u6599\u3067\u30c1\u30e3\u30c3\u30c8\u30c8\u30fc\u30af\u304c\u3067\u304d\u308bSNS\u30de\u30c3\u30c1\u30f3\u30b0\u30a2\u30d7\u30ea"}
+{"user_rating": "4.5", "id": "386098453", "name": "Weibo HD"}
+{"user_rating": "4", "id": "978985106", "name": "Inke\u2014Broadcast an amazing life"}
+{"user_rating": "1", "id": "431065024", "name": "Fake Location"}
+{"user_rating": "4", "id": "336435697", "name": "imo video calls and chat"}
+{"user_rating": "4", "id": "405548206", "name": "Lobi"}
+{"user_rating": "3", "id": "454638411", "name": "Messenger"}
+{"user_rating": "4.5", "id": "429047995", "name": "Pinterest"}
+{"user_rating": "4", "id": "427941017", "name": "YY- \u5c0f\u5168\u6c11\u624b\u673a\u76f4\u64ad\u4ea4\u53cb\u8f6f\u4ef6"}
+{"user_rating": "3.5", "id": "314716233", "name": "TextNow - Unlimited Text + Calls"}
+{"user_rating": "4", "id": "838848566", "name": "Zenly - Locate your friends in realtime"}
+{"user_rating": "1.5", "id": "494906425", "name": "Who Deleted Me? for Facebook"}
+{"user_rating": "4", "id": "965609252", "name": "Kiwi - Q&A"}
+{"user_rating": "4.5", "id": "912561374", "name": "Marco Polo Video Walkie Talkie"}
+{"user_rating": "4.5", "id": "310633997", "name": "WhatsApp Messenger"}
+{"user_rating": "3", "id": "896890211", "name": "Remove Caption for Snapchat* Screenshots"}
+{"user_rating": "0", "id": "1011114397", "name": "BestieBox"}

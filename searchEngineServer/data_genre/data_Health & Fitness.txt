@@ -1,0 +1,180 @@
+{"user_rating": "5", "id": "1093360165", "name": "Simple Habit"}
+{"user_rating": "4.5", "id": "687421118", "name": "buddhify - modern mindfulness for busy lives"}
+{"user_rating": "3", "id": "465173198", "name": "Cronometer"}
+{"user_rating": "4.5", "id": "369838631", "name": "Breathing Zone: Guided Breathing for Mindfulness"}
+{"user_rating": "4", "id": "901722848", "name": "Find my Fitbit - Finder app for lost fitbits"}
+{"user_rating": "4.5", "id": "347418999", "name": "Simply Being - Guided Meditation for Relaxation and Presence"}
+{"user_rating": "4.5", "id": "582719476", "name": "Instant Fitness : 600+ exercises, 100+ workouts, home, exercise workout trainer, 7 minute workout, on-the-go personal mobile fitness trainer by Fitness Buddy and Instant Heart Rate"}
+{"user_rating": "4.5", "id": "579712380", "name": "Alarm Clock Sleep Sounds Pro: Guided Meditation for Relaxation Cycle, Hypnosis and insomnia"}
+{"user_rating": "0", "id": "535731343", "name": "Oje, ich wachse!"}
+{"user_rating": "4.5", "id": "654810212", "name": "Freeletics Bodyweight - Workouts and Training"}
+{"user_rating": "0", "id": "841386224", "name": "\u5999\u5065\u5eb7-\u5065\u5eb7\u81ea\u6d4b\u7ba1\u5bb6"}
+{"user_rating": "3.5", "id": "626362411", "name": "The Fast Metabolism Diet\u2013 customized meal planning"}
+{"user_rating": "5", "id": "1041517543", "name": "Fitbod Workout Log: Strength Lifting Bodybuilding"}
+{"user_rating": "4.5", "id": "448474423", "name": "Couch to 5K\u00ae - Running App and Training Coach"}
+{"user_rating": "4", "id": "342602105", "name": "Positivity with Andrew Johnson"}
+{"user_rating": "4.5", "id": "910159225", "name": "Yoga Break"}
+{"user_rating": "4.5", "id": "599456380", "name": "Sleep Meister - Sleep Cycle Alarm Lite"}
+{"user_rating": "4.5", "id": "475249619", "name": "My Macros+ Diet, Weight and Calorie Tracker"}
+{"user_rating": "4.5", "id": "636485814", "name": "Thunderspace 5k ~ Focus, Sleep, Relax, Meditate in a thunderstorm with rain and nature sounds"}
+{"user_rating": "1", "id": "453629018", "name": "Sight Recover 3D"}
+{"user_rating": "5", "id": "1063785850", "name": "SenseSleep - Train Your Brain To Sleep Better"}
+{"user_rating": "4", "id": "307219387", "name": "Brain Wave \u2122 - 32 Advanced Binaural Brainwave Entrainment Programs with iTunes Music and Relaxing Ambience"}
+{"user_rating": "4", "id": "599456126", "name": "Sleep Meister - Sleep Cycle Alarm"}
+{"user_rating": "3.5", "id": "991764216", "name": "PAUSE - Relaxation at your fingertip"}
+{"user_rating": "3.5", "id": "533956710", "name": "Modern Essentials"}
+{"user_rating": "4.5", "id": "341232718", "name": "Calorie Counter & Diet Tracker by MyFitnessPal"}
+{"user_rating": "1.5", "id": "955832188", "name": "Baby Cries Translator"}
+{"user_rating": "4", "id": "586910133", "name": "Smart Alarm Clock : sleep cycle & snoring recorder"}
+{"user_rating": "4.5", "id": "352199775", "name": "Waterlogged - Daily Hydration Tracker"}
+{"user_rating": "0", "id": "965226033", "name": "21 Days Metabolic Diet"}
+{"user_rating": "4.5", "id": "1056893074", "name": "20/20 Diet For Your Life"}
+{"user_rating": "4.5", "id": "306561234", "name": "Map My Ride+ - GPS Cycling & Route Tracker"}
+{"user_rating": "5", "id": "1049351079", "name": "Fitness - Gym and Home Workout,my Exercise Journal"}
+{"user_rating": "4.5", "id": "486692623", "name": "\"Burn your fat with me!!\""}
+{"user_rating": "0", "id": "1102364578", "name": "Fit \u79c1\u4eba\u5065\u8eab\u6559\u7ec3-\u8d85\u6709\u6548\u7684\u5065\u5eb7\u8fd0\u52a8\u51cf\u80a5\u8f6f\u4ef6"}
+{"user_rating": "2", "id": "974022309", "name": "( OFFTIME ) light \u2013 Track how much you use your phone & Digital Detox and unplug to focus"}
+{"user_rating": "4.5", "id": "665678340", "name": "12 Minute Athlete HIIT Workouts"}
+{"user_rating": "5", "id": "866617777", "name": "8fit - Workouts, meal plans and personal trainer"}
+{"user_rating": "4", "id": "289894882", "name": "White Noise"}
+{"user_rating": "4.5", "id": "336599882", "name": "Runtastic Running, Jogging and Walking Tracker"}
+{"user_rating": "4", "id": "409395695", "name": "My Score Plus Weight Loss, Food & Exercise Tracker"}
+{"user_rating": "4.5", "id": "523063187", "name": "\u5b9d\u5b9d\u6811\u5b55\u80b2-\u706b\u7206\u7684\u5907\u5b55\u6000\u5b55\u80b2\u513f\u793e\u533a"}
+{"user_rating": "0", "id": "958635569", "name": "\u30e1\u30f3\u30bf\u30eb\u30ea\u30fc\u30d7\u306e\u30a2\u30d7\u30ea\uff1a\u30ef\u30f3\u30c0\u30fc\u30a6\u30a3\u30fc\u30af\uff08\u65e7\uff1a\u30ef\u30f3\u30c0\u30fc\u30a6\u30a3\u30fc\u30af\u30b9\uff09"}
+{"user_rating": "4", "id": "935306292", "name": "Sync Solver for Fitbit"}
+{"user_rating": "4.5", "id": "306468004", "name": "Map My Run+ - GPS Running & Workout Tracker"}
+{"user_rating": "3", "id": "643857704", "name": "Walk for a Dog"}
+{"user_rating": "4.5", "id": "596796565", "name": "HabitSeed"}
+{"user_rating": "3.5", "id": "373185673", "name": "WebMD for iPad"}
+{"user_rating": "4.5", "id": "509260769", "name": "iSleep Easy - Meditations for Restful Sleep"}
+{"user_rating": "3.5", "id": "1049234587", "name": "Sweat: Kayla Itsines' Bikini Body Fitness Workouts"}
+{"user_rating": "4.5", "id": "320606217", "name": "Sleep Cycle alarm clock"}
+{"user_rating": "2", "id": "1128623591", "name": "Dr. Oz"}
+{"user_rating": "4", "id": "588922922", "name": "Gym Log+ \u2014 Workout and Fitness Tracker"}
+{"user_rating": "4.5", "id": "1132992868", "name": "Flowing ~ Meditation & Mindfulness"}
+{"user_rating": "0", "id": "1040811649", "name": "\u95ea\u7626-\u5065\u5eb7\u51cf\u80a5\u7626\u8eab"}
+{"user_rating": "5", "id": "570182662", "name": "Runtastic Squats PRO \u2013 Workouts, Trainer & Counter"}
+{"user_rating": "4", "id": "1152657123", "name": "MyFLO Period Tracker by FLO Living LLC"}
+{"user_rating": "0", "id": "1057119275", "name": "\u00dcbungen f\u00fcr einen starken R\u00fccken \u2013 GEO WISSEN GESUNDHEIT"}
+{"user_rating": "4.5", "id": "536049508", "name": "Full Fitness : Exercise Workout Trainer"}
+{"user_rating": "5", "id": "1019230398", "name": "Moodnotes - Thought Journal / Mood Diary"}
+{"user_rating": "4.5", "id": "352247139", "name": "MyNetDiary PRO - Calorie Counter and Food Diary"}
+{"user_rating": "4.5", "id": "1089666978", "name": "Activity++"}
+{"user_rating": "5", "id": "916540089", "name": "Sunny ~ Calm wave & ocean sounds to Sleep Relax Meditate on the beach with rain and sea birds"}
+{"user_rating": "2", "id": "947805279", "name": "Crane Connect"}
+{"user_rating": "5", "id": "986540048", "name": "Ab & Core Sworkit - Free Workout Trainer"}
+{"user_rating": "4.5", "id": "650276551", "name": "Seven - 7 Minute Workout Training Challenge"}
+{"user_rating": "1.5", "id": "1119002115", "name": "Pea \u2013 The Premature Ejaculation App"}
+{"user_rating": "4.5", "id": "680170305", "name": "7 Minute Workout Challenge"}
+{"user_rating": "3.5", "id": "1176374647", "name": "HealthFace"}
+{"user_rating": "3", "id": "450987651", "name": "VIBO RealMassager"}
+{"user_rating": "4.5", "id": "989254177", "name": "Good Morning Alarm Clock - Sleep Cycle Tracker"}
+{"user_rating": "4.5", "id": "1062745479", "name": "HeartWatch. Heart & Activity Monitor for Watch"}
+{"user_rating": "4.5", "id": "1064955217", "name": "Life Cycle - Track Your Time Automatically"}
+{"user_rating": "4", "id": "330376830", "name": "Period Tracker Lite"}
+{"user_rating": "4", "id": "1082891966", "name": "Wellbeyond Meditation for Kids"}
+{"user_rating": "3", "id": "1141280841", "name": "Yogemoji - The Yoga Emoji Keyboard"}
+{"user_rating": "3.5", "id": "335875911", "name": "My Cycles Period and Ovulation Tracker"}
+{"user_rating": "4.5", "id": "382045106", "name": "\u30ab\u30ed\u30ea\u30fc\u7ba1\u7406\uff08\u75e9\u305b\u308b\u30a2\u30d7\u30ea\uff09"}
+{"user_rating": "4.5", "id": "404299862", "name": "iTrackBites Plus - Smart Weight Loss Tracker & Points Calculator for Diet Nutrition Watchers"}
+{"user_rating": "4.5", "id": "1134998522", "name": "myFitnessSync for Fitbit - Fitbit to Apple Health"}
+{"user_rating": "3", "id": "1050452180", "name": "Morning Routine : Daily Habit Tracker"}
+{"user_rating": "5", "id": "1025601254", "name": "My Challenge Tracker"}
+{"user_rating": "4.5", "id": "964748094", "name": "My Water Balance: Daily Drink Tracker & Reminder"}
+{"user_rating": "4", "id": "620447173", "name": "ameli, l'Assurance Maladie"}
+{"user_rating": "4.5", "id": "657189652", "name": "Clue Period Tracker: Period & Ovulation Tracker"}
+{"user_rating": "5", "id": "723322796", "name": "FizzUp \u2013 Online Fitness Trainer"}
+{"user_rating": "5", "id": "527219710", "name": "Sworkit - Custom Workouts for Exercise & Fitness"}
+{"user_rating": "4.5", "id": "1164801111", "name": "AutoSleep. Auto Sleep Tracker for Watch"}
+{"user_rating": "4", "id": "985238090", "name": "Dot - A Period & Fertility Tracker"}
+{"user_rating": "0", "id": "1011796416", "name": "GYMONDO \u2013 Fitness Training f\u00fcr Zuhause"}
+{"user_rating": "4.5", "id": "410089731", "name": "Low Carb Diet Tracker PRO by Carb Manager"}
+{"user_rating": "0", "id": "1072425152", "name": "Nackt gut aussehen"}
+{"user_rating": "0", "id": "993479067", "name": "2Face Fitpack - Dein Trainingsprogramm mit pers\u00f6nlichem Ern\u00e4hrungsplan, Kalorienrechner und Trainingsplan"}
+{"user_rating": "4.5", "id": "783214985", "name": "Quick Fit - 7 Minute Workout, Abs, and Yoga"}
+{"user_rating": "5", "id": "567767430", "name": "Yoga Studio"}
+{"user_rating": "4.5", "id": "981093617", "name": "WorkMeOut - Jaber Al-Rasheed"}
+{"user_rating": "4.5", "id": "926105977", "name": "Ohajiki Web Browser"}
+{"user_rating": "3.5", "id": "950669893", "name": "Walking for Weight Loss: training plans, GPS, tips"}
+{"user_rating": "4.5", "id": "398436747", "name": "Fooducate - Lose Weight, Eat Healthy,Get Motivated"}
+{"user_rating": "0", "id": "948618479", "name": "Women's Health 100 Tage Training ohne Ger\u00e4te"}
+{"user_rating": "5", "id": "1128311260", "name": "The EO Bar"}
+{"user_rating": "4.5", "id": "571227995", "name": "All-in Fitness: 1200 Exercises, Workouts, Calorie Counter, BMI calculator by Sport.com"}
+{"user_rating": "4.5", "id": "478862935", "name": "Runtastic Mountain Bike Ride & Route Tracker PRO"}
+{"user_rating": "4.5", "id": "657222343", "name": "7 Minute Workout Pro"}
+{"user_rating": "4.5", "id": "698154775", "name": "Fitness and Bodybuilding by VGFIT"}
+{"user_rating": "4.5", "id": "895425891", "name": "Record by Under Armour, connects with UA HealthBox"}
+{"user_rating": "2.5", "id": "529815782", "name": "The Wonder Weeks"}
+{"user_rating": "0", "id": "886564208", "name": "\u7f8e\u67da\u7ecf\u671f\u52a9\u624b(\u4e13\u4e1a\u7248)-\u6708\u7ecf\u00b7\u751f\u7406\u671f\u9884\u6d4b\uff0c\u8fd8\u80fd\u5907\u5b55\u80b2\u513f"}
+{"user_rating": "4", "id": "1073002250", "name": "Fit Girls Guide"}
+{"user_rating": "4", "id": "937793199", "name": "Ref Guide for Essential Oils"}
+{"user_rating": "0", "id": "999239164", "name": "\u4e50\u4eab\u52a8-\u6709\u8fd0\u52a8\u97f3\u4e50\u63a8\u8350\u7684\u8ba1\u6b65\u5668"}
+{"user_rating": "5", "id": "634896669", "name": "\u7f8e\u67da - \u5973\u751f\u52a9\u624b"}
+{"user_rating": "4.5", "id": "493912733", "name": "Adrian James 6 Pack Abs Workout"}
+{"user_rating": "0", "id": "1081737936", "name": "Anitore EX \uff5eLet's train together\uff01\uff5e"}
+{"user_rating": "5", "id": "416981420", "name": "Bodyweight Training: You Are Your Own Gym"}
+{"user_rating": "4", "id": "495130365", "name": "mememo(\u30df\u30fc\u30e1\u30e2)\u30c0\u30a4\u30a8\u30c3\u30c8\u301c\u751f\u7406\u65e5\u4e88\u6e2c\u307e\u3067\u5973\u6027\u30b5\u30dd\u30fc\u30c8"}
+{"user_rating": "4.5", "id": "468429333", "name": "Runtastic Road Bike GPS Cycling Route Tracker PRO"}
+{"user_rating": "4.5", "id": "1035263816", "name": "Runtastic Results: Workout & Bodyweight Training"}
+{"user_rating": "4.5", "id": "653031147", "name": "WaterMinder\u00ae"}
+{"user_rating": "4.5", "id": "1067860796", "name": "Asana Rebel - Yoga Inspired Fitness"}
+{"user_rating": "4.5", "id": "504835984", "name": "Virtual Gastric Band Hypnosis - Lose Weight Fast!"}
+{"user_rating": "4.5", "id": "1089982285", "name": "Zen"}
+{"user_rating": "4.5", "id": "566752651", "name": "Rainy Mood - Rain Sounds for Sleep & Study"}
+{"user_rating": "4.5", "id": "590216134", "name": "Plant Nanny - Water Reminder with Cute Plants"}
+{"user_rating": "3", "id": "583446403", "name": "Garmin Connect\u2122 Mobile"}
+{"user_rating": "1.5", "id": "388459613", "name": "Carbs & Cals - Diet & Diabetes"}
+{"user_rating": "4.5", "id": "1073473120", "name": "Away ~ Meditation & mindfulness to sleep, relax, focus, breathe"}
+{"user_rating": "4.5", "id": "535640259", "name": "Fitstar Personal Trainer"}
+{"user_rating": "5", "id": "784797900", "name": "J&J Official 7 Minute Workout"}
+{"user_rating": "4", "id": "1082150954", "name": "Wildfulness - Unwind in nature and calm your mind"}
+{"user_rating": "4.5", "id": "483910781", "name": "Ultimate Food Value Diary - Diet & Weight Tracker"}
+{"user_rating": "0", "id": "1129671707", "name": "airweave sleep analysis"}
+{"user_rating": "5", "id": "701112447", "name": "Mindfulness Daily"}
+{"user_rating": "4.5", "id": "289084315", "name": "Period Tracker Deluxe"}
+{"user_rating": "5", "id": "1066018502", "name": "Meditation Studio \u2013 Guided Meditations and Courses"}
+{"user_rating": "4.5", "id": "443646748", "name": "Fitness Buddy+ Gym Workout Exercise, Home Trainer"}
+{"user_rating": "4.5", "id": "473917761", "name": "Sleep application"}
+{"user_rating": "4.5", "id": "410351918", "name": "Sleep Pillow Sounds: white noise, rain, ocean, fan"}
+{"user_rating": "4", "id": "900333528", "name": "iMacro - Diet, Weight and Food Score Tracker"}
+{"user_rating": "2", "id": "1005468883", "name": "Sleep Pulse 2 Motion - The Sleep Tracker for Watch"}
+{"user_rating": "3.5", "id": "331308914", "name": "Weight Watchers"}
+{"user_rating": "4.5", "id": "942435348", "name": "Runtastic Butt Workout & Booty Trainer Plans"}
+{"user_rating": "4.5", "id": "882365789", "name": "\u30c0\u30a4\u30a8\u30c3\u30c8\u304c\u7d9a\u304f\uff01\u4eba\u6c17\u306e\u30ab\u30ed\u30ea\u30fc\u30fb\u4f53\u91cd\u7ba1\u7406\u30a2\u30d7\u30ea \u300c\u3082\u3050\u305f\u3093\u300d"}
+{"user_rating": "4.5", "id": "366626332", "name": "Runtastic PRO Running, Jogging and Fitness Tracker"}
+{"user_rating": "0", "id": "914564861", "name": "M\u00e9ditations avec Christophe Andr\u00e9"}
+{"user_rating": "5", "id": "570180361", "name": "Runtastic Push Ups PRO: Workouts, Trainer, Counter"}
+{"user_rating": "4", "id": "297368629", "name": "Lose It! \u2013 Weight Loss Program and Calorie Counter"}
+{"user_rating": "5", "id": "493145008", "name": "Headspace"}
+{"user_rating": "4.5", "id": "453480684", "name": "\u5495\u549a-\u4f60\u7684\u8dd1\u6b65\u9a91\u884c\u8fd0\u52a8\u793e\u533a"}
+{"user_rating": "5", "id": "1000708019", "name": "Butt Sworkit - Free Workout Trainer to tone & lift"}
+{"user_rating": "3.5", "id": "326082487", "name": "Food Additives Checker (E Numbers)"}
+{"user_rating": "0", "id": "720111744", "name": "\u30c0\u30a4\u30a8\u30c3\u30c8\u5973\u5b50\u304c\u75e9\u305b\u305f\u9b54\u6cd5\u306e\u30a2\u30d7\u30ea-\u98df\u4e8b\u30fb\u904b\u52d5\u30fb\u7f8e\u5bb9\uff20DIET"}
+{"user_rating": "4.5", "id": "1073907652", "name": "Cardiograph"}
+{"user_rating": "3", "id": "1044950341", "name": "Streaks Workout"}
+{"user_rating": "4.5", "id": "395042892", "name": "Instant Heart Rate+: Heart Rate & Pulse Monitor"}
+{"user_rating": "4.5", "id": "636240052", "name": "RUNNING for weight loss: workout & meal plans"}
+{"user_rating": "2.5", "id": "895361200", "name": "SmartFit - Wristband"}
+{"user_rating": "5", "id": "1158735801", "name": "Fitness Sync for Fitbit to Apple Health"}
+{"user_rating": "0", "id": "890354109", "name": "MotiConnect Pro"}
+{"user_rating": "4.5", "id": "409605521", "name": "Quit Pro"}
+{"user_rating": "4.5", "id": "347400507", "name": "Pocket Yoga"}
+{"user_rating": "0", "id": "977159568", "name": "Superdrug"}
+{"user_rating": "4", "id": "462638897", "name": "Fitbit"}
+{"user_rating": "4", "id": "505253234", "name": "Charity Miles: Walking & Running Distance Tracker"}
+{"user_rating": "4", "id": "636248681", "name": "RUNNING for weight loss PRO: workout & meal plans"}
+{"user_rating": "4", "id": "1025313530", "name": "Snail Sleep-Dream Talk Recording"}
+{"user_rating": "0", "id": "1168399577", "name": "Sonia Tlev"}
+{"user_rating": "4.5", "id": "685857245", "name": "Runtastic Six Pack Abs Workout & Core Trainer"}
+{"user_rating": "4.5", "id": "653453499", "name": "Yoga.com: 300 Poses & Video Classes"}
+{"user_rating": "4.5", "id": "841377297", "name": "Windy ~ Sleep Relax Meditate & white noise sounds"}
+{"user_rating": "4", "id": "891448329", "name": "Model My Diet - Women - Weight Loss Motivation"}
+{"user_rating": "3.5", "id": "286906691", "name": "Lifesum \u2013 Inspiring healthy lifestyle app"}
+{"user_rating": "4.5", "id": "952694580", "name": "Keep - \u79fb\u52a8\u5065\u8eab\u6559\u7ec3 \u81ea\u7531\u8fd0\u52a8\u573a"}
+{"user_rating": "4.5", "id": "587922128", "name": "ProTracker Plus Weight, Calorie & Exercise Tracker"}
+{"user_rating": "4.5", "id": "573916046", "name": "Fitness Point Pro"}
+{"user_rating": "3.5", "id": "301521403", "name": "Nike+ Training Club - Workouts & Fitness Plans"}
+{"user_rating": "4.5", "id": "765224318", "name": "7 Minute Workout Challenge HD for iPad"}
+{"user_rating": "5", "id": "439852091", "name": "5K Runner: 0 to 5K Run Trainer. Couch potato to 5K"}
+{"user_rating": "4.5", "id": "946099227", "name": "YAZIO \u2013 Calorie Counter & Nutrition Tracker"}
+{"user_rating": "0", "id": "1150509995", "name": "Intuition Guidances"}

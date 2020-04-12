@@ -1,0 +1,8 @@
+{"user_rating": "3.5", "id": "333903271", "name": "Twitter"}
+{"user_rating": "4", "id": "1039945866", "name": "Electoral 2016 - Create Presidential Election Maps"}
+{"user_rating": "0", "id": "1015225810", "name": "ZAKER \u4e13\u4e1a\u7248"}
+{"user_rating": "0", "id": "964055562", "name": "\u30b0\u30eb\u30fc\u30bf / \u6700\u65b0\u30cb\u30e5\u30fc\u30b9\u307e\u3068\u3081\u3092\u30b0\u30eb\u30fc\u30d7\u30c1\u30e3\u30c3\u30c8\u3067\uff01(Grouta)"}
+{"user_rating": "4", "id": "1076683233", "name": "Quartz \u2022 News in a whole new way"}
+{"user_rating": "4", "id": "325658560", "name": "BFMTV : l'info en continu"}
+{"user_rating": "4", "id": "367623543", "name": "Fox News"}
+{"user_rating": "3", "id": "300255638", "name": "ABC News - US & World News + Live Video"}
